@@ -1,6 +1,6 @@
 # RenameFileFolder
   实现将某个文件夹下的所有文件和文件夹，迭代式的重新命名。一些公众号中推荐的学习资料中，经常加一些长长的前缀和后缀，这使得我们在使用的时候很烦。然而，windows当中并没有相应的命令提供给我们来迭代式的修改*目录名*和*文件名*。面对这个问题，本人开发了该应用。目前只有这一个功能，后续会继续开发新的功能，来完善该应用。
-  ![image](https://github.com/Jmt1995/RenameFileFolder/edit/master/images/motivation.png)
+  ![image](https://github.com/Jmt1995/RenameFileFolder/blob/master/images/motivation.png)
  
  ## 功能一，删除关键字
  根据所给的目录和相应的关键字，为该目录下，所有的包含该关键的字的*文件*以及*目录*删除该关键字。
